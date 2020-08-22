@@ -1,11 +1,13 @@
 import React from "react"
 import Header from "../components/header"
 
-export default function Home() {
+const Profile = () => {
   return (
     <>
       <Header></Header>
-      <div>Hello world! And hello you beautiful fargot!</div>
+      <h2>Profile of an immense fargot</h2>
     </>
   )
 }
+
+export default Profile

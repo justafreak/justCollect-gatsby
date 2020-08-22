@@ -11,6 +11,9 @@ const Menu = () => {
         <li>
           <Link to="/profile/">Profile</Link>
         </li>
+        <li>
+          <Link to="/haha/">Click Bait!</Link>
+        </li>
       </ul>
     </>
   )
